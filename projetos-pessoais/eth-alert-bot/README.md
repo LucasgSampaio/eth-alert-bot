@@ -14,6 +14,3 @@ Um bot desenvolvido em Python que monitora o preço do Ethereum (ETH) e envia al
 - Python 3.x
 - Requests
 - Alguma biblioteca de agendamento (como `schedule`, se usar)
-
-## 📁 Estrutura de Arquivos
-
